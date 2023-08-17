@@ -8,6 +8,27 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered.
 
+## Group Member 1 Task
+
+    <img src="https://cdn.pixabay.com/photo/2016/12/27/13/10/logo-1933884_640.png" alt=""><br>
+    <table>
+        <h2>Introduction</h2>
+        <tr>• Development Technology</tr>
+        <tr>• Features</tr>
+        <tr>• Getting Started</tr>
+        <tr>• Usage</tr>
+        <tr>• Contributors</tr> 
+        <tr>• Contact Information</tr>
+    </table><br>
+    <h2>Introduction</h2>
+    <p>Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
+        options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
+        read reviews, and get directions. With a focus on enhancing the dining experience, this 
+        software solution strives to bridge the gap between diners and local eateries.</p><br>
+    <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/00/11/26/6756376bb3e282a.jpg" alt=""><br>
+    <h2>License</h2><br>
+    <p>This project is licensed under the <a href="/">MIT LICENCE</a></p>
+
 ## Group member 2 Task - Shartaz Yesar
 
 ## Development Technology
@@ -57,3 +78,4 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 3| Email address 3  | Phone Number 3|
 | Contributor 4| Email address 4  | Phone Number 4|
 | Contributor 5| Email address 5  | Phone Number 5|
+
