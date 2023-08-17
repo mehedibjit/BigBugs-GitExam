@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <img src="https://cdn.pixabay.com/photo/2016/12/27/13/10/logo-1933884_640.png" alt=""><br>
+<img src="https://cdn.pixabay.com/photo/2016/12/27/13/10/logo-1933884_640.png" alt=""><br>
     <table>
         <h2>Introduction</h2>
         <tr>• Development Technology</tr>
@@ -24,6 +16,3 @@
     <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/00/11/26/6756376bb3e282a.jpg" alt=""><br>
     <h2>License</h2><br>
     <p>This project is licensed under the <a href="/">MIT LICENCE</a></p>
-
-</body>
-</html>
