@@ -1,9 +1,5 @@
-
-
-
 # Local Dining Guide
 Web Based Dining Information Solution
-
 
 Welcome to the Local Dining Guide project! This web-based software solution is designed to 
 provide users with comprehensive dining information, making it easy for them to explore 
@@ -62,6 +58,31 @@ selected restaurant.
 and receive personalized recommendations.
 
 <a href="www.google.coom">Click</a> here for more details.
+
+# Group Member 3 Task - Sirajam Munira
+<h2> Getting Started </h2>
+<i>Follow these steps to get Local Dining Guide up and running on your local machine.</i>
+<h3>Prerequisites</h3>
+<p><strong>Web Browser:</strong>  Ensure you have a modern web browser installed to access the Local Dining 
+Guide interface.</p>
+<p><strong>Internet Connection:</strong>  A stable internet connection is required to fetch restaurant data and 
+images.</p>
+<h3>Installation</h3>
+<ol>
+<li>
+    <p><strong>Clone the Repository:</strong>  Start by cloning this repository to your local machine.</p>
+    <code>git clone https://github.com/yourusername/local-dining-guide.git </code>
+  </li>
+  <li>
+    <p><strong>Navigate to Directory:</strong>  Move into the project directory.</p>
+    <code>cd local-dining-guide</code>
+  </li>
+  <li>
+    <p><strong>Launch the Application:</strong>  Open the index.html file in your web browser.</p>
+    <code>open index.html</code>
+  </li>
+</ol>
+
 
 # Group Member 4 Task - Mehedi Hasan
 ## Usage
