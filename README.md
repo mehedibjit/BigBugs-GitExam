@@ -103,4 +103,23 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 4| Email address 4  | Phone Number 4|
 | Contributor 5| Email address 5  | Phone Number 5|
 
+<<<<<<< HEAD
 >>>>>>> ab2dfc036ef0fc2ea16e27e38a484169006426e0
+=======
+
+## Group member 5 Task - Abdullah Al Mamun
+# Contact Information
+
+For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website [localdiningguide.com](http://www.localdiningguide.com).
+
+## Follow us on social media:
+
+![Twitter Icon](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png) Twitter: [@localdiningguide](https://twitter.com/localdiningguide)
+
+![Facebook Icon](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png) Facebook: [@LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
+
+![Instagram Icon](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png) Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
+s
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit!
