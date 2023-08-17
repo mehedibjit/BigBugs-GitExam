@@ -103,9 +103,6 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 4| Email address 4  | Phone Number 4|
 | Contributor 5| Email address 5  | Phone Number 5|
 
-<<<<<<< HEAD
->>>>>>> ab2dfc036ef0fc2ea16e27e38a484169006426e0
-=======
 
 ## Group member 5 Task - Abdullah Al Mamun
 # Contact Information
