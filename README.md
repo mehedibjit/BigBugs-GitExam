@@ -11,6 +11,27 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered.
 
+## Group Member 1 Task
+
+    <img src="https://cdn.pixabay.com/photo/2016/12/27/13/10/logo-1933884_640.png" alt=""><br>
+    <table>
+        <h2>Introduction</h2>
+        <tr>• Development Technology</tr>
+        <tr>• Features</tr>
+        <tr>• Getting Started</tr>
+        <tr>• Usage</tr>
+        <tr>• Contributors</tr> 
+        <tr>• Contact Information</tr>
+    </table><br>
+    <h2>Introduction</h2>
+    <p>Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
+        options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
+        read reviews, and get directions. With a focus on enhancing the dining experience, this 
+        software solution strives to bridge the gap between diners and local eateries.</p><br>
+    <img src="https://png.pngtree.com/thumb_back/fh260/back_pic/00/11/26/6756376bb3e282a.jpg" alt=""><br>
+    <h2>License</h2><br>
+    <p>This project is licensed under the <a href="/">MIT LICENCE</a></p>
+
 ## Group member 2 Task - Shartaz Yesar
 
 ## Development Technology
@@ -41,6 +62,25 @@ selected restaurant.
 and receive personalized recommendations.
 
 <a href="www.google.coom">Click</a> here for more details.
+
+# Group Member 4 Task - Mehedi Hasan
+## Usage
+- **Search for Restaurants:** Utilize the search functionality to discover dining options based on your preferences.
+- **Explore Restaurant Profiles:** Click on a restaurant to access its detailed profile, which includes menu items and reviews.
+- **Read and Write Reviews:** Share your dining experiences by leaving reviews and ratings for restaurants.
+- **Save Favorites:** Create an account to save your favorite restaurants and receive personalized recommendations.
+- **Get Directions:** Click on the integrated map to obtain directions to your selected restaurant.
+
+## Contributors
+Thank you to the following contributors who have helped to improve this project:
+
+| Name         | Email            | Phone         |
+| ------------ | ---------------- | ------------- |
+| Contributor 1| Email address 1  | Phone Number 1|
+| Contributor 2| Email address 2  | Phone Number 2|
+| Contributor 3| Email address 3  | Phone Number 3|
+| Contributor 4| Email address 4  | Phone Number 4|
+| Contributor 5| Email address 5  | Phone Number 5|
 
 
 ## Group member 5 Task - Abdullah Al Mamun
